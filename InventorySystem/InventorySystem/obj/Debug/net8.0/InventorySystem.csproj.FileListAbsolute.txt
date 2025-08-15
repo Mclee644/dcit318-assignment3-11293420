@@ -1,0 +1,15 @@
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.sourcelink.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\InventorySystem\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
