@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\warehousemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\warehousemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\iinventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\electronicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|c:\\users\\mclee\\documents\\csharp\\dcit318-assignment3-11293420\\warehouseinventorymanagementsystem\\warehouseinventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35181662-1E8B-4E33-99A6-F2B8B2F004F4}|WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj|solutionrelative:warehouseinventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WareHouseManger.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\WareHouseManger.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\WareHouseManger.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\WareHouseManger.cs",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\WareHouseManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:49:18.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\InventoryRepository.cs*",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\InventoryRepository.cs*",
+              "ViewState": "AgIAAAIAAAAAAADsXL4MwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:09:58.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroceryItem.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\GroceryItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\GroceryItem.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\GroceryItem.cs",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\GroceryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:05:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseInventoryManagementSystem",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T05:05:08.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectronicItem.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\ElectronicItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\ElectronicItem.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\ElectronicItem.cs",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\ElectronicItem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:58:54.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\IInventoryItem.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\IInventoryItem.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\IInventoryItem.cs",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\IInventoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:56:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseInventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\mclee\\Documents\\cSharp\\dcit318-assignment3-11293420\\WarehouseInventoryManagementSystem\\WarehouseInventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "WarehouseInventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:51:05.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
