@@ -1,0 +1,15 @@
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.exe
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.deps.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.runtimeconfig.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\bin\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.sourcelink.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\refint\HealthcareSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\HealthcareSystem\HealthcareSystem\obj\Debug\net8.0\ref\HealthcareSystem.dll
