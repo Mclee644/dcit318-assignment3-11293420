@@ -1,0 +1,14 @@
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.exe
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.deps.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\refint\FinanceManagementSystem.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\mclee\Documents\cSharp\dcit318-assignment3-11293420\FinanceManagementSystem\FinanceManagementSystem\obj\Debug\net8.0\ref\FinanceManagementSystem.dll
